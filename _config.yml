@@ -1,10 +1,9 @@
-title: Cookie
+title: Khass Foods
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  🌿 Homemade Goodness | No Preservatives
+  🌿 Chyavanprash | Moravala | Gulkand | Bel Muramba
 baseurl: "/"
-url: https://cookie-demo.netlify.app # change this URL, this is needed for generating right sitemap
+url: https://khassfoods.com # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
